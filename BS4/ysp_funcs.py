@@ -76,7 +76,7 @@ def get_reviews(src_page_text, reviews_count):
 
     return business_url, reviews_list
 
-    # data_review = re.findall(r'"review":(\[.*?])', src_business)
+    # data_review = re.findall(r'"review":(\[.*?])', src_page_text)
     # try:
     #     reviews = json.loads(data_review[0])
     # except json.decoder.JSONDecodeError:
@@ -87,7 +87,7 @@ def get_reviews(src_page_text, reviews_count):
     #     for jsn in reviews:
     #
     #         reviewer_name = jsn['author']
-    #         reviewer_location = jsn['reviewRating']
+    #         reviewer_location = jsn['reviewRating']  !!! wrong data here
     #         reviewer_date = jsn['datePublished']
     #         reviews_list.append({
     #             'Name': reviewer_name,
