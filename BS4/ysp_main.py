@@ -21,7 +21,6 @@ headers = {
         'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36'
 }
 
-
 # get Category pages
 page = 0
 end_page = 5
@@ -48,6 +47,7 @@ while True:
     business_info = soup.find_all(class_='container__09f24__mpR8_')
 
     for business_item in business_info:
+
         try:
             business_class = business_item.find(class_='css-19v1rkv')
             business_name = business_class.text
@@ -72,9 +72,11 @@ while True:
                     'URL': business_url,
                     'Reviews': reviews_list
                 })
+
         except Exception as e:
             print(business_name)
             raise e
+
         finally:
             with open(f'data/results/{category}-{location}-page-{page - 1}.json', 'w', encoding='utf-8-sig') as file:
                 json.dump(business_info_list, file, indent=4, ensure_ascii=False)
