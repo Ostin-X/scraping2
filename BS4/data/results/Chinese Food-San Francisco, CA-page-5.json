@@ -1,0 +1,392 @@
+﻿[
+    {
+        "Name": "Alice’s Restaurant",
+        "Rating": 3.8,
+        "Number of reviews": 341,
+        "Yelp URL": "https://www.yelp.com/biz/alices-restaurant-san-francisco",
+        "URL": "alicesrestaurantsf.com",
+        "Reviews": [
+            {
+                "Name": "Dom T.",
+                "Location": "San Francisco, CA",
+                "Date": "8/22/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=BwWsnWxkXgXlXPGTAEduEg"
+            },
+            {
+                "Name": "Carmina D.",
+                "Location": "San Francisco, CA",
+                "Date": "3/30/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=c64nUZDzkVfmIK2jHJL8CQ"
+            },
+            {
+                "Name": "Carley M.",
+                "Location": "Santa Barbara, CA",
+                "Date": "9/6/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=CaPuF_fXLm2DTQimh79CuA"
+            },
+            {
+                "Name": "Ziyan C.",
+                "Location": "San Francisco, CA",
+                "Date": "7/7/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=eIa4QJXp5ZNmuFORnuPvDA"
+            },
+            {
+                "Name": "Kevin F.",
+                "Location": "Mill Valley, CA",
+                "Date": "6/10/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=mWovMFEZgWE40UVchWHlWA"
+            }
+        ]
+    },
+    {
+        "Name": "Szechuan cuisine",
+        "Rating": 4.2,
+        "Number of reviews": 458,
+        "Yelp URL": "https://www.yelp.com/biz/szechuan-cuisine-san-francisco-15",
+        "URL": "szechuancuisinesf.com",
+        "Reviews": [
+            {
+                "Name": "Ji S.",
+                "Location": "San Francisco, CA",
+                "Date": "7/22/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=sQfvrC4-WfbvhHvcf30Tfw"
+            },
+            {
+                "Name": "Zhixuan H.",
+                "Location": "Millbrae, CA",
+                "Date": "7/21/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=qnUYYWe9aNNm_3NSUUBloA"
+            },
+            {
+                "Name": "Steph C.",
+                "Location": "San Francisco, CA",
+                "Date": "7/19/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=q3TQCLmhFxswfwbZ-tPsTQ"
+            },
+            {
+                "Name": "Lori R.",
+                "Location": "San Francisco, CA",
+                "Date": "7/13/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=n9VdmYwHUEunR4QYM4Z40Q"
+            },
+            {
+                "Name": "Amy W.",
+                "Location": "San Francisco, CA",
+                "Date": "6/8/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=HorQ90eiUPfnesQlIraaJA"
+            }
+        ]
+    },
+    {
+        "Name": "New China Restaurant",
+        "Rating": 4.2,
+        "Number of reviews": 91,
+        "Yelp URL": "https://www.yelp.com/biz/new-china-restaurant-millbrae-2",
+        "URL": "newchinafoodsmillbrae.com",
+        "Reviews": [
+            {
+                "Name": "Lobsang G.",
+                "Location": "San Francisco, CA",
+                "Date": "8/13/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=0z4AKZUX2pPi3BRoUZ-L5g"
+            },
+            {
+                "Name": "Lenore O.",
+                "Location": "Millbrae, CA",
+                "Date": "8/7/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=u_Q7VrviE4rFnvul6xkPeA"
+            },
+            {
+                "Name": "Crystal Y.",
+                "Location": "South San Francisco, CA",
+                "Date": "7/12/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=g1PUCS328ZocMQtTIftOnw"
+            },
+            {
+                "Name": "Adrian L.",
+                "Location": "San Francisco, CA",
+                "Date": "4/30/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=ib9ML_tK2KxWz1hK_RHGdQ"
+            },
+            {
+                "Name": "Jimmy W.",
+                "Location": "Hayward, CA",
+                "Date": "4/30/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=E5UWhltEhZuRkzWPdE7rig"
+            }
+        ]
+    },
+    {
+        "Name": "Good Luck Dim Sum",
+        "Rating": 3.9,
+        "Number of reviews": 1900,
+        "Yelp URL": "https://www.yelp.com/biz/good-luck-dim-sum-san-francisco",
+        "URL": "good-luck-dim-sum.com",
+        "Reviews": [
+            {
+                "Name": "Haebin L.",
+                "Location": "CA, CA",
+                "Date": "8/17/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=MNK7NeWsKPyFBI4ke5ZaQg"
+            },
+            {
+                "Name": "Christine V.",
+                "Location": "San Francisco, CA",
+                "Date": "9/7/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=MPNtEEyofB3vrBAyrOHqjQ"
+            },
+            {
+                "Name": "kevin f.",
+                "Location": "Sunnyvale, CA",
+                "Date": "8/28/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=gQakfWADWb5alpygATqcaw"
+            },
+            {
+                "Name": "Priscilla L.",
+                "Location": "San Francisco, CA",
+                "Date": "7/10/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=FGc4XibWjomB0rDiFMdDFw"
+            },
+            {
+                "Name": "Saphace A.",
+                "Location": "Louisville, KY",
+                "Date": "7/8/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=0PCM8QMFWatpzBMRUVOVbQ"
+            }
+        ]
+    },
+    {
+        "Name": "Wen’s Kitchen",
+        "Rating": 4.2,
+        "Number of reviews": 23,
+        "Yelp URL": "https://www.yelp.com/biz/wen-s-kitchen-san-francisco",
+        "URL": "None",
+        "Reviews": [
+            {
+                "Name": "Jessica Z.",
+                "Location": "Richmond, CA",
+                "Date": "5/5/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=2my4Q-0ZIU10PVsJ1rGOXQ"
+            },
+            {
+                "Name": "Elle W.",
+                "Location": "San Francisco, CA",
+                "Date": "4/30/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=ddwzM5V8o2-GzGGZLCXyYw"
+            },
+            {
+                "Name": "V L.",
+                "Location": "Saratoga, CA",
+                "Date": "3/19/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=xyuPbHCfBnV-YKyJWhjcKw"
+            },
+            {
+                "Name": "Shawn T.",
+                "Location": "Riverside, CA",
+                "Date": "8/13/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=hyN2sykabfx3ezmhpRwRVg"
+            },
+            {
+                "Name": "Jadon S.",
+                "Location": "Corte Madera, CA",
+                "Date": "7/9/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=7kZC3LNy7ZECk0dsHswHHA"
+            }
+        ]
+    },
+    {
+        "Name": "Shanghai Dumpling King",
+        "Rating": 4.5,
+        "Number of reviews": 97,
+        "Yelp URL": "https://www.yelp.com/biz/shanghai-dumpling-king-san-francisco-4",
+        "URL": "None",
+        "Reviews": [
+            {
+                "Name": "Ruth W.",
+                "Location": "Fort Worth, TX",
+                "Date": "7/2/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=bkJ4CZeuWotmh7GGPXJ8Ng"
+            },
+            {
+                "Name": "James H.",
+                "Location": "San Francisco, CA",
+                "Date": "5/8/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=JA6rT-vthpaPywoP2J4WRA"
+            },
+            {
+                "Name": "Adam B.",
+                "Location": "San Francisco, CA",
+                "Date": "5/7/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=yZM8bO0dbhffVp6RCTFN5w"
+            },
+            {
+                "Name": "Jidapa T.",
+                "Location": "North Berkeley, Berkeley, CA",
+                "Date": "8/10/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=GjF0-1jhmS6qZjYh9rKpWw"
+            },
+            {
+                "Name": "Annabelle R.",
+                "Location": "San Jose, CA",
+                "Date": "4/18/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=8qroSmXABJ3bRdgkTIn0Cg"
+            }
+        ]
+    },
+    {
+        "Name": "Tung Sing Restaurant",
+        "Rating": 2.8,
+        "Number of reviews": 103,
+        "Yelp URL": "https://www.yelp.com/biz/tung-sing-restaurant-san-francisco",
+        "URL": "None",
+        "Reviews": [
+            {
+                "Name": "Nick B.",
+                "Location": "San Francisco, CA",
+                "Date": "7/18/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=LFvYbUPLUhM_iRMymD_ojw"
+            },
+            {
+                "Name": "Yvana J.",
+                "Location": "San Pablo, CA",
+                "Date": "10/28/2022",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=67zX2QogXHOAe0d7MVrb4w"
+            },
+            {
+                "Name": "Joey A.",
+                "Location": "San Francisco, CA",
+                "Date": "3/19/2019",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=Q9iWGXj2TRM7PrpXD-aEFQ"
+            },
+            {
+                "Name": "Ashley S.",
+                "Location": "Midtown, Phoenix, AZ",
+                "Date": "2/5/2021",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=vZ-GDlHIaOEP02NyrcGpIw"
+            },
+            {
+                "Name": "Mar F.",
+                "Location": "San Francisco, CA",
+                "Date": "12/2/2020",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=yGdXkh2KPaVSr3kKcwIPtg"
+            }
+        ]
+    },
+    {
+        "Name": "Hong Kong Clay Pot Restaurant",
+        "Rating": 3.8,
+        "Number of reviews": 1100,
+        "Yelp URL": "https://www.yelp.com/biz/hong-kong-clay-pot-restaurant-san-francisco",
+        "URL": "hongkongclaypot.top-cafes.com",
+        "Reviews": [
+            {
+                "Name": "Mavis B.",
+                "Location": "Los Angeles, CA",
+                "Date": "8/26/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=M1ErvyuiYXOmqft1oudtng"
+            },
+            {
+                "Name": "Happy Lion K.",
+                "Location": "Seattle, WA",
+                "Date": "8/7/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=r9Q-ttsYxn5nX6ccJPlD9Q"
+            },
+            {
+                "Name": "Connie L.",
+                "Location": "Los Angeles, CA",
+                "Date": "8/1/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=omil00i3YWlmSuyxn31H5g"
+            },
+            {
+                "Name": "Jessica Y.",
+                "Location": "San Francisco, CA",
+                "Date": "6/13/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=tomdQEIF3Nw0uWrUcvzx6w"
+            },
+            {
+                "Name": "SY C.",
+                "Location": "San Francisco, CA",
+                "Date": "6/11/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=cCZpMsB_EXkMyn_OvQbdEA"
+            }
+        ]
+    },
+    {
+        "Name": "Chubby Noodle",
+        "Rating": 3.9,
+        "Number of reviews": 1000,
+        "Yelp URL": "https://www.yelp.com/biz/chubby-noodle-san-francisco-4",
+        "URL": "chubbynoodle.com",
+        "Reviews": [
+            {
+                "Name": "Sinai F.",
+                "Location": "TX, TX",
+                "Date": "7/30/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=3nBDBC4nseMh7rAGbUKKuQ"
+            },
+            {
+                "Name": "Virginia D.",
+                "Location": "Santa Monica, CA",
+                "Date": "8/5/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=yfpMOZOSUK9lQ9_6m0J9iw"
+            },
+            {
+                "Name": "Annie H.",
+                "Location": "Belmont, CA",
+                "Date": "8/27/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=xgBSc_fSne3lcPjbW2nvLA"
+            },
+            {
+                "Name": "Andy B.",
+                "Location": "Seattle, WA",
+                "Date": "8/20/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=3sA0PRATgsMRHHr_mx2imA"
+            },
+            {
+                "Name": "Alice S.",
+                "Location": "San Francisco, CA",
+                "Date": "8/18/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=CFJ46bZaflsysj_-RFPJjg"
+            }
+        ]
+    },
+    {
+        "Name": "Yummy Yummy",
+        "Rating": 4.1,
+        "Number of reviews": 1600,
+        "Yelp URL": "https://www.yelp.com/biz/yummy-yummy-san-francisco",
+        "URL": "None",
+        "Reviews": [
+            {
+                "Name": "Fresh E.",
+                "Location": "Oakland, CA",
+                "Date": "8/31/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=CvrCkenfmD20J_RpDMLu0Q"
+            },
+            {
+                "Name": "Susan L.",
+                "Location": "San Ramon, CA",
+                "Date": "8/21/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=mhaWCahEaLr73FsH-zX6OQ"
+            },
+            {
+                "Name": "Yih R.",
+                "Location": "San Francisco, CA",
+                "Date": "8/18/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=2qZYlFnPToCLslE56ew6XQ"
+            },
+            {
+                "Name": "Ken C.",
+                "Location": "Mountain View, CA",
+                "Date": "7/30/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=2WPaSsA_YMFQkyKTaH7xxg"
+            },
+            {
+                "Name": "Monica H.",
+                "Location": "San Jose, CA",
+                "Date": "7/10/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=JlkqbCbgZcNTbyg75vgmTA"
+            }
+        ]
+    }
+]

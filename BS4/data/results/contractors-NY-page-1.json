@@ -1,0 +1,368 @@
+﻿[
+    {
+        "Name": "Harry’s Contracting",
+        "Rating": 4.6,
+        "Number of reviews": 33,
+        "Yelp URL": "https://www.yelp.com/biz/harrys-contracting-maspeth-9",
+        "URL": "None",
+        "Reviews": [
+            {
+                "Name": "Tricia S.",
+                "Location": "MASPETH, NY",
+                "Date": "8/29/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=pLq-XXq3xSbaSOJGEf4xLw"
+            },
+            {
+                "Name": "Ronnie B.",
+                "Location": "West Village, Manhattan, NY",
+                "Date": "8/22/2021",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=yW-eH2TPc3Gfy8BvoUUG1g"
+            },
+            {
+                "Name": "Manousheh M.",
+                "Location": "New York, NY",
+                "Date": "6/6/2021",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=Qzaa02Xx9u9s8ztA6e2DUg"
+            },
+            {
+                "Name": "Jay P.",
+                "Location": "Manhattan, NY",
+                "Date": "12/4/2021",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=DVrX2M2m4MS3HDoDZvayCw"
+            },
+            {
+                "Name": "Al R.",
+                "Location": "New York, NY",
+                "Date": "5/31/2022",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=MBXtbyqge8bP5copJd7JDw"
+            }
+        ]
+    },
+    {
+        "Name": "Mr. Handy NYC",
+        "Rating": 4.7,
+        "Number of reviews": 128,
+        "Yelp URL": "https://www.yelp.com/biz/mr-handy-nyc-woodside-3",
+        "URL": "mrhandynyc.com",
+        "Reviews": [
+            {
+                "Name": "Mohammed I.",
+                "Location": "New York, NY",
+                "Date": "12/29/2020",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=LzQ4p-8la5yVTciaycryMw"
+            },
+            {
+                "Name": "S B.",
+                "Location": "New York, NY",
+                "Date": "4/11/2022",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=T1upaPMzuW7pNj74fO1rjA"
+            },
+            {
+                "Name": "Erika C.",
+                "Location": "New York, NY",
+                "Date": "3/22/2022",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=pyck9jRg0aB-LlrBo1rBBw"
+            },
+            {
+                "Name": "Melinda W.",
+                "Location": "Sanibel, FL",
+                "Date": "7/29/2022",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=AzuuL9qWr2Froogw3fqXVw"
+            },
+            {
+                "Name": "Meghan K.",
+                "Location": "Reston, VA",
+                "Date": "3/13/2022",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=HvlsfxrVXyQHh9hJ78spIQ"
+            }
+        ]
+    },
+    {
+        "Name": "Underconstruction.Aks",
+        "Rating": 4.9,
+        "Number of reviews": 25,
+        "Yelp URL": "https://www.yelp.com/biz/underconstruction-aks-brooklyn",
+        "URL": "underconstructionaks.com",
+        "Reviews": [
+            {
+                "Name": "Sofya M.",
+                "Location": "Brooklyn, NY",
+                "Date": "3/26/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=n2soElKixj8ny8_0JvOKuA"
+            },
+            {
+                "Name": "Phyllis S.",
+                "Location": "Manhattan, NY",
+                "Date": "3/22/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=71uICPQWg5Ma-L4XhLwOUw"
+            },
+            {
+                "Name": "Emma E.",
+                "Location": "Manhattan, New York, NY",
+                "Date": "7/21/2022",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=j5bAFRVen5UgX2nBNcb-qA"
+            },
+            {
+                "Name": "H A.",
+                "Location": "NY, NY",
+                "Date": "5/11/2022",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=6ab_pT2nC6e2Zcbt5LfSOA"
+            },
+            {
+                "Name": "Michee S.",
+                "Location": "San Jose, CA",
+                "Date": "5/5/2021",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=QzccoPhlyvP60SnpHEzpaA"
+            }
+        ]
+    },
+    {
+        "Name": "Strictly Cleaning Restoration",
+        "Rating": 4.6,
+        "Number of reviews": 46,
+        "Yelp URL": "https://www.yelp.com/biz/strictly-cleaning-restoration-brooklyn-7",
+        "URL": "strictlycleaningrestoration.co…",
+        "Reviews": [
+            {
+                "Name": "Johnny P.",
+                "Location": "Brooklyn, NY",
+                "Date": "8/17/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=cqJq9wuKBSJQSWtOUB1UrA"
+            },
+            {
+                "Name": "Theresa A. G.",
+                "Location": "Brooklyn, NY",
+                "Date": "8/27/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=LSbixfUlX3PrKqyhF4Hscw"
+            },
+            {
+                "Name": "Jeff L.",
+                "Location": "Manhattan, NY",
+                "Date": "10/26/2022",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=cUFwNewAbsstwlHOzCBGzA"
+            },
+            {
+                "Name": "Dorothy W.",
+                "Location": "New York, NY",
+                "Date": "7/2/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=YCa1SylrmP2Z7PvwzCwhxQ"
+            },
+            {
+                "Name": "Benjamin N.",
+                "Location": "Brooklyn, Brooklyn, NY",
+                "Date": "4/27/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=lz9R6Eq1TcWpBPU-Tcn1KQ"
+            }
+        ]
+    },
+    {
+        "Name": "Danny’s Construction and Handyman",
+        "Rating": 4.5,
+        "Number of reviews": 54,
+        "Yelp URL": "https://www.yelp.com/biz/danny-s-construction-and-handyman-jersey-city",
+        "URL": "dannyconstruction.net",
+        "Reviews": [
+            {
+                "Name": "Wayne C.",
+                "Location": "New York, NY",
+                "Date": "9/10/2020",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=tOi6xVEE2UmyHGv-DJ_nIg"
+            },
+            {
+                "Name": "Erwin R.",
+                "Location": "Lodi, NJ",
+                "Date": "2/6/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=GtWI0B3Q7oAVn3Hsed7KHQ"
+            },
+            {
+                "Name": "Amy C.",
+                "Location": "Foster City, CA",
+                "Date": "9/1/2022",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=xrqvbYN6eOyq_Ng61SMDhw"
+            },
+            {
+                "Name": "Natalie M.",
+                "Location": "Bronx, NY",
+                "Date": "8/26/2022",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=3-AuIaLq7KcM1xaxXvquQA"
+            },
+            {
+                "Name": "Sandra M.",
+                "Location": "Chesapeake, VA",
+                "Date": "1/13/2022",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=gWD0RsBPwAxWcmGIDBOotA"
+            }
+        ]
+    },
+    {
+        "Name": "Block Renovation",
+        "Rating": 4.3,
+        "Number of reviews": 85,
+        "Yelp URL": "https://www.yelp.com/biz/block-renovation-brooklyn-2",
+        "URL": "blockrenovation.com",
+        "Reviews": [
+            {
+                "Name": "Jon C.",
+                "Location": "Brookline, MA",
+                "Date": "7/18/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=Nr-tWYwMYXsS7ejVRnRBPg"
+            },
+            {
+                "Name": "Matt W.",
+                "Location": "San Francisco, CA",
+                "Date": "7/24/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=lNpivrBG-fNB_ImB9jevMw"
+            },
+            {
+                "Name": "David B.",
+                "Location": "Boston, MA",
+                "Date": "6/28/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=hRqHo6g7LUg1iXzzp9t4Mg"
+            },
+            {
+                "Name": "Pem B.",
+                "Location": "Boston, MA",
+                "Date": "4/30/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=SD2Yls45bum7Ew-AsxBF_w"
+            },
+            {
+                "Name": "Emma B.",
+                "Location": "Linden, NJ",
+                "Date": "4/18/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=XpV5jrai2BTlGWDiY-e4zw"
+            }
+        ]
+    },
+    {
+        "Name": "JJK Contracting",
+        "Rating": 4.7,
+        "Number of reviews": 52,
+        "Yelp URL": "https://www.yelp.com/biz/jjk-contracting-east-bronx-18",
+        "URL": "jjkcontractingllc.com",
+        "Reviews": [
+            {
+                "Name": "A S.",
+                "Location": "Bronxville, NY",
+                "Date": "2/24/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=_wpAvFxcZEXVM9sQohi3XA"
+            },
+            {
+                "Name": "Lauren R.",
+                "Location": "Valley Stream, NY",
+                "Date": "4/26/2022",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=Qlhv_f223pkE2c2xnyIN5g"
+            },
+            {
+                "Name": "Kristie P.",
+                "Location": "New York, NY",
+                "Date": "1/16/2022",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=67dMuYkCbiAZZlUK3D4bGA"
+            },
+            {
+                "Name": "Shelley H.",
+                "Location": "Brooklyn, NY",
+                "Date": "10/3/2022",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=zmfqikq21A5zuLipsBFS7Q"
+            },
+            {
+                "Name": "Robert S.",
+                "Location": "Brooklyn, NY",
+                "Date": "6/18/2022",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=EwXRPCQeQ7pBpp6A2E5-9w"
+            }
+        ]
+    },
+    {
+        "Name": "Design MACS",
+        "Rating": 5.0,
+        "Number of reviews": 16,
+        "Yelp URL": "https://www.yelp.com/biz/design-macs-hoboken",
+        "URL": "designmacs.com",
+        "Reviews": [
+            {
+                "Name": "Danielle F.",
+                "Location": "Hoboken, NJ",
+                "Date": "4/2/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=GaQ9v_fwsCtXsW7MV0hGtw"
+            },
+            {
+                "Name": "Ryan T.",
+                "Location": "Jersey City, NJ",
+                "Date": "2/6/2022",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=ZDsIXlqarMT_Ed2BS4xAeQ"
+            },
+            {
+                "Name": "Scott K.",
+                "Location": "NJ, NJ",
+                "Date": "2/27/2022",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=xd8wIAe9Jl4OKwYpMLU9xw"
+            },
+            {
+                "Name": "Jessica C.",
+                "Location": "Inglewood, CA",
+                "Date": "12/27/2021",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=Ni_jHznnKofER20Pj38JQQ"
+            },
+            {
+                "Name": "Dipti S.",
+                "Location": "Manhattan, NY",
+                "Date": "4/30/2017",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=Xlr_b5lPmb6YlWKFaiv_cQ"
+            }
+        ]
+    },
+    {
+        "Name": "AR Woodworking",
+        "Rating": 5.0,
+        "Number of reviews": 1,
+        "Yelp URL": "https://www.yelp.com/biz/ar-woodworking-queens",
+        "URL": "arwoodworkinginc.com",
+        "Reviews": [
+            {
+                "Name": "Patrick K.",
+                "Location": "Baltimore, MD",
+                "Date": "8/16/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=BsAAVqu8PopU9XKNPLqGkg"
+            }
+        ]
+    },
+    {
+        "Name": "Agalliu Contracting",
+        "Rating": 4.8,
+        "Number of reviews": 24,
+        "Yelp URL": "https://www.yelp.com/biz/agalliu-contracting-staten-island",
+        "URL": "www.agalliucontracting.com",
+        "Reviews": [
+            {
+                "Name": "Joshua S.",
+                "Location": "Brooklyn, NY",
+                "Date": "5/15/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=KespjLpxgjk5aaMZSzjzow"
+            },
+            {
+                "Name": "Kate V.",
+                "Location": "New York, NY",
+                "Date": "8/19/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=KgaOJBJYAp_JNuJG9cq_Lw"
+            },
+            {
+                "Name": "Sewina H.",
+                "Location": "New York, NY",
+                "Date": "7/27/2022",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=YuYPdTzMDoGMhPwjtFnzrw"
+            },
+            {
+                "Name": "Alexander F.",
+                "Location": "Manhattan, NY",
+                "Date": "4/10/2022",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=R6IMJLKOiMC5Jbqv8ClwIA"
+            },
+            {
+                "Name": "John G.",
+                "Location": "Brooklyn, NY",
+                "Date": "5/14/2023",
+                "Yelp Url": "https://www.yelp.com/user_details?userid=LWRKgTokbep422JoDgiDFQ"
+            }
+        ]
+    }
+]
